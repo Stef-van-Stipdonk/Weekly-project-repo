@@ -9,4 +9,5 @@ Currently used dependencies are, SDL2 and my own baselayer base.h.
  - Week 05 | Project deadlines, so no project
  - Week 06 | [Intel 8086 Assembly MOV operation mode 11 decoding](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-04-19
  - Week 07 | [Intel 8086 Assembly MOV operation mode 00, 01, 10 decoding + Register to immediate mov decoding](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-04-25
-   
+ - Week 08 | [Intel 8086 Assembly ADD, SUB opcode decoding](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-05
+
