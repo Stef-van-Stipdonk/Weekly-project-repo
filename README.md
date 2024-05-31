@@ -12,3 +12,6 @@ Currently used dependencies are, SDL2 and my own baselayer base.h.
  - Week 08 | [Intel 8086 Assembly ADD, SUB opcode decoding](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-05
  - Week 09.1 | [Intel 8086 Assembly CMP and jump instruction decoding](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-10
  - Week 09.2 | [Intel 8086 Assembly MOV register/immediate value tracking](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-12
+ - Week 10 | [Intel 8086 ADD/SUB/CMP register simulation](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-17
+ - Week 11 | [Intel 8086 simulate flags register](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-24
+ - Week 12 | [c-base-layer add dynamic list template header](https://github.com/Stef-van-Stipdonk/c-base-layer) | Finished 2024-05-31
