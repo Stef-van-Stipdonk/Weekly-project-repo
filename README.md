@@ -15,3 +15,6 @@ Currently used dependencies are, SDL2, the c standard library and my own baselay
  - Week 10 | [Intel 8086 ADD/SUB/CMP register simulation](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-17
  - Week 11 | [Intel 8086 simulate flags register](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler) | Finished 2024-05-24
  - Week 12 | [c-base-layer add dynamic list template header](https://github.com/Stef-van-Stipdonk/c-base-layer) | Finished 2024-05-31
+ - Week 13 | Project deadlines, so no project
+ - Week 14 | Project deadlines, so no project
+
