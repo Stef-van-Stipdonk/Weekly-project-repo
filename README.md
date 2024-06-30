@@ -17,4 +17,8 @@ Currently used dependencies are, SDL2, the c standard library and my own baselay
  - Week 12 | [c-base-layer add dynamic list template header](https://github.com/Stef-van-Stipdonk/c-base-layer) | Finished 2024-05-31
  - Week 13 | Project deadlines, so no project
  - Week 14 | Project deadlines, so no project
+ - Week 15 | [dynamic array refactor to type checked version](https://github.com/Stef-van-Stipdonk/c-base-layer) | Finished 2024-06-03
+ - Week 16 | [Memory simpulation for disassbembler]([https://github.com/Stef-van-Stipdonk/c-base-layer](https://github.com/Stef-van-Stipdonk/intel_8086_machine_instruction_disassembler)) | Finished 2024-06-12
+ - Week 17/18 | Project deadlines
+ - Week 19 | [Sobel implementation](https://github.com/Stef-van-Stipdonk/Sobel_in_C)
 
